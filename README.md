@@ -7,22 +7,22 @@ This is an AI-based Health App to predict the risk of heart disease and offer pe
 > It is our hope that this app can be a useful proof-of-concept for future development and advancement in the field of personalized healthcare.
 
 After graduation, @ChristineWC and I (@wanyingtian) continued to develop the Health App to reach higher potential.
-## [Built With](##build-with)
+## [Built With](#built-with)
 - Python
 - XCode
 - Java
 - HTML
 - MySQL
-## [Getting started](##getting-started)
+## [Getting started](#getting-started)
 ...to be updated
-### [Prerequisites]
+### [Prerequisites](#prerequisites)
 ...to be updated
-### [Installation]
+### [Installation](#installation)
 ...to be updated
 
-## [Usage]
+## [Usage](#usage)
 ...to be updated
-## [Roadmap]
-## [Contact]
+## [Roadmap](#roadmap)
+## [Contact](#contact)
 Wanying Tian - [wanying.tian@outlook.com](mailto:wanying.tian@outlook.com)
-## [Acknowledgments]
+## [Acknowledgments](#acknowledgments)
