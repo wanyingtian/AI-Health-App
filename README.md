@@ -5,3 +5,4 @@ This is an AI-based Health App to predict the risk of heart disease and offer pe
 > It is our hope that this app can be a useful proof-of-concept for future development and advancement in the field of personalized healthcare.
 
 After graduation, @ChristineWC and I (@wanyingtian) continued to develop the Health App to reach higher potential.
+@wanyingtian
